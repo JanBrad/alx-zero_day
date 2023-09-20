@@ -1,1 +1,1 @@
-My second README.md file
+This file contains bash and c directory with files inside.
